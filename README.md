@@ -11,7 +11,8 @@
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
 
 # CasaOs Docker Templates 🐳
-- [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base Jupyter Notebook Stack to Docker Compose.
+- [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base JupyterLab Notebook Stack to Docker Compose.
+- [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyter) **hqnicolas/KonmeoCasaOsJupyter** A jupyter Docker Alternative.
 - [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyterLab) **hqnicolas/KonmeoCasaOsJupyter** A jupyterLab Docker Alternative.
 
 # Computer engineering Activities 🏋️‍♂️
