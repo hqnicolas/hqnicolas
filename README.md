@@ -1,7 +1,10 @@
-### Hi there 👋
+### Olá! Eu sou o Nícolas Pereira 🍶
+
+- Abaixo, uma listagem de meus repositórios.
+# LLM's
+**hqnicolas/WindowsAutoGenStudio** is a repository that Make You Run AutoGen Studio on Windows.
 
 <!--
-**hqnicolas/hqnicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
