@@ -7,6 +7,9 @@
 - [Link](https://github.com/hqnicolas/devika) **hqnicolas/devika** Devika, an advanced AI software engineer that runs Ollama.
 - [Link](https://github.com/hqnicolas/Ollama-Pilot-CasaOs/tree/main) **hqnicolas/Ollama-Pilot-CasaOs** GPT-pilot Ported to Ollama docker Compose.
 
+# Image Deep Learning 📷
+- [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
+
 # CasaOs Docker Templates 🐳
 - [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base Jupyter Notebook Stack to Docker Compose.
 - [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyterLab) **hqnicolas/KonmeoCasaOsJupyter** A jupyterLab Docker Alternative.
