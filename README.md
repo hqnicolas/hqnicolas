@@ -4,6 +4,7 @@
 # Large Language Models (LLM's) 💬
 - [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
 - [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **hqnicolas/OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
+- [Link](https://github.com/hqnicolas/devika) **hqnicolas/devika** Devika, an advanced AI software engineer that runs Ollama.
   
 # Computer engineering Activities 🏋️‍♂️
 - [Link](https://github.com/hqnicolas/8-bit-MCU) **hqnicolas/8-bit-MCU** List of my projects using 8 Bits Micro Controllers
@@ -12,7 +13,9 @@
 - [Link](https://github.com/hqnicolas/Delphi7Exercices) **hqnicolas/Delphi7Exercices** Exercises from the Delhi discipline.
 - [Link](https://github.com/hqnicolas/DataBase-Level1-SQL) **hqnicolas/DataBase-Level1-SQL** Exercises from the Database discipline.
 
-- 
+# Hardware x86 Activities  
+- [Link](https://github.com/hqnicolas/T430-Thinkpad-OpenCore) **hqnicolas/T430-Thinkpad-OpenCore** My OpenCore Laptop Release Page.
+
 <!--
 
 Here are some ideas to get you started:
