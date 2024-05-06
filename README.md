@@ -5,7 +5,11 @@
 - [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
 - [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **hqnicolas/OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
 - [Link](https://github.com/hqnicolas/devika) **hqnicolas/devika** Devika, an advanced AI software engineer that runs Ollama.
-  
+
+# CasaOs Docker Templates 🐳
+- [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base Jupyter Notebook Stack to Docker Compose
+- [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyterLab) **hqnicolas/KonmeoCasaOsJupyter** A jupyterLab Docker Alternative
+
 # Computer engineering Activities 🏋️‍♂️
 - [Link](https://github.com/hqnicolas/8-bit-MCU) **hqnicolas/8-bit-MCU** List of my projects using 8 Bits Micro Controllers
 - [link](https://github.com/hqnicolas/Estrutura-de-dados)  **hqnicolas/Estrutura-de-dados** Exercises from the data structure discipline.
