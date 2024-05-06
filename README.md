@@ -10,6 +10,7 @@
 # Image Deep Learning 📷
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
 - [Link](https://github.com/hqnicolas/lllyasvielFooocusROCm/tree/main) **hqnicolas/lllyasvielFooocusROCm** Rethinking of Stable Diffusion and Midjourney’s designs.
+- [Link](https://github.com/hqnicolas/ZLUDA_kohya_ss) **hqnicolas/ZLUDA_kohya_ss** training, generation and utility scripts for Stable Diffusion.
 
 # CasaOs Docker Templates 🐳
 - [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base JupyterLab Notebook Stack to Docker Compose.
