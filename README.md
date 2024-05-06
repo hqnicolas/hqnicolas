@@ -1,6 +1,6 @@
-### Olá! Eu sou o Nícolas Pereira 🍶
+### Hello! ✋ I'm Nícolas Pereira 🍶
 
-- Abaixo, uma listagem de meus repositórios.
+- A list of my repositories Below.
 # Large Language Models (LLM's) 💬
 - [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
 - [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **hqnicolas/OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
