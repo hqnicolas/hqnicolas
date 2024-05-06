@@ -2,8 +2,10 @@
 
 - Abaixo, uma listagem de meus repositórios.
 # LLM's
-**hqnicolas/WindowsAutoGenStudio** is a repository that Make You Run AutoGen Studio on Windows.
+- [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
+- [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
 
+  
 <!--
 
 Here are some ideas to get you started:
