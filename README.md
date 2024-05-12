@@ -6,6 +6,7 @@
 - [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **hqnicolas/OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
 - [Link](https://github.com/hqnicolas/devika) **hqnicolas/devika** Devika, an advanced AI software engineer that runs Ollama.
 - [Link](https://github.com/hqnicolas/Ollama-Pilot-CasaOs/tree/main) **hqnicolas/Ollama-Pilot-CasaOs** GPT-pilot Ported to Ollama docker Compose.
+- [Link](https://github.com/hqnicolas/OpenWebUiPromptTemplates) **hqnicolas/OpenWebUiPromptTemplates** Prompt Engineer for Open Web Ui Ollama models.
 
 # Image Deep Learning 📷
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
