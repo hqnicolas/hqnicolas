@@ -25,6 +25,7 @@
 - [Link](https://github.com/hqnicolas/Delphi7Exercices) **hqnicolas/Delphi7Exercices** Exercises from the Delhi discipline.
 - [Link](https://github.com/hqnicolas/DataBase-Level1-SQL) **hqnicolas/DataBase-Level1-SQL** Exercises from the Database discipline.
 - [Link](https://github.com/hqnicolas/DataBase-Level2-SQL) **hqnicolas/DataBase-Level2-SQL** Exercises from the Database discipline.
+- [Link](https://github.com/hqnicolas/C-Exercices) **hqnicolas/C++Exercices** Exercises from C++ discipline.
 
 # MacOS x86 distro  
 - [Link](https://github.com/hqnicolas/T430-Thinkpad-OpenCore) **hqnicolas/T430-Thinkpad-OpenCore** My OpenCore Laptop Release Page.
