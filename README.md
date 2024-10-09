@@ -23,7 +23,7 @@
 - [Link](https://github.com/hqnicolas/Estrutura-de-dados)  **hqnicolas/Estrutura-de-dados** Exercises from the data structure discipline.
 - [Link](https://github.com/hqnicolas/Estatistica-Aplicada) **hqnicolas/Estatistica-Aplicada**  Exercises from Applied Statistics discipline.
 - [Link](https://github.com/hqnicolas/PyExercices) **hqnicolas/PyExercices** Exercises from the Python discipline.
-- [Link](https://github.com/hqnicolas/Delphi7Exercices) **hqnicolas/Delphi7Exercices** Exercises from the Delhi discipline.
+- [Link](https://github.com/hqnicolas/Delphi7Exercices) **hqnicolas/Delphi7Exercices** Exercises from the Delphi discipline.
 - [Link](https://github.com/hqnicolas/DataBase-Level1-SQL) **hqnicolas/DataBase-Level1-SQL** Exercises from the Database discipline.
 - [Link](https://github.com/hqnicolas/DataBase-Level2-SQL) **hqnicolas/DataBase-Level2-SQL** Exercises from the Database discipline.
 - [Link](https://github.com/hqnicolas/C-Exercices) **hqnicolas/C++Exercices** Exercises from C++ discipline.
