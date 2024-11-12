@@ -31,12 +31,12 @@
 - [Link](https://github.com/hqnicolas/C-Exercices) **hqnicolas/C++Exercices** Exercises from C++ discipline.
 - [Link](https://github.com/hqnicolas/backend-Level1-Java) **hqnicolas/backend-Level1-Java**  Exercises from the Backend discipline.
 
-# iA Generated App's
+# Complete App's exercises 🖨️​
 - [Link](https://github.com/hqnicolas/PyGameSnake) **hqnicolas/PyGameSnake** snake game in python
 
-# MacOS x86 distro  
+# MacOS x86 distro 💻​  
 - [Link](https://github.com/hqnicolas/T430-Thinkpad-OpenCore) **hqnicolas/T430-Thinkpad-OpenCore** My OpenCore Laptop Release Page.
 
-# Linux aarch64 distro
+# Linux aarch64 distro 💡​
 - [Link](https://github.com/hqnicolas/pop_os_arm64/tree/main) **hqnicolas/pop_os_arm64** My Pop_os! Desktop for Ubuntu server aarch64.
 - [Link](https://github.com/hqnicolas/ArmBoardBringUp) **hqnicolas/ArmBoardBringUp** My Method to include a Arm Board into Debian Distro Support.
