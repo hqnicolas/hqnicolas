@@ -34,6 +34,7 @@
 # Complete App's exercises 🖨️​
 - [Link](https://github.com/hqnicolas/PyGameSnake) **hqnicolas/PyGameSnake** snake game in python
 - [Link](https://github.com/hqnicolas/n3backend) **hqnicolas/n3backend** Community Engagement: donation management
+- [Link](https://github.com/hqnicolas/bd2) **hqnicolas/bd2** Ensurance Controller: Smartphone Insurance platform
 
 # MacOS x86 distro 💻​  
 - [Link](https://github.com/hqnicolas/T430-Thinkpad-OpenCore) **hqnicolas/T430-Thinkpad-OpenCore** My OpenCore Laptop Release Page.
