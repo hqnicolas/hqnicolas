@@ -10,6 +10,7 @@
 - [Link](https://github.com/hqnicolas/Ollama-Pilot-CasaOs/tree/main) **hqnicolas/Ollama-Pilot-CasaOs** GPT-pilot Ported to Ollama docker Compose.
 - [Link](https://github.com/hqnicolas/OpenWebUiPromptTemplates) **hqnicolas/OpenWebUiPromptTemplates** Prompt Engineer for Open Web Ui Ollama models.
 - [Link](https://github.com/hqnicolas/crewai-docker-image) **hqnicolas/crewai-docker-image** CrewAI Agents Docker Image a containerized environment.
+- [Link](https://github.com/hqnicolas/edu-crew) **hqnicolas/edu-crew** CrewAi Project Base for Web Scratch Projects Using Ai
 
 # Image Deep Learning 📷
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
