@@ -46,3 +46,6 @@
 # Linux aarch64 distro 💡​
 - [Link](https://github.com/hqnicolas/pop_os_arm64/tree/main) **hqnicolas/pop_os_arm64** My Pop_os! Desktop for Ubuntu server aarch64.
 - [Link](https://github.com/hqnicolas/ArmBoardBringUp) **hqnicolas/ArmBoardBringUp** My Method to include a Arm Board into Debian Distro Support.
+
+# Smart Home devices 🏠
+- [Link](https://github.com/hqnicolas/eclipse-mosquitto) **hqnicolas/eclipse-mosquitto**  Run MQTT Server on CasaOs Docker with aarch64.
