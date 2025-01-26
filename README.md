@@ -3,7 +3,6 @@
 - A list of my repositories Below.
 # Large Language Models (LLM's) 💬
 - [Link](https://github.com/hqnicolas/meta-ai-api) **hqnicolas/meta-ai-api** OpenAI-compatible API interface for interacting with Meta AI models
-- [Link](https://github.com/hqnicolas/continue4free) **hqnicolas/continue4free** Enable Continue.dev compatibility for server API.
 - [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
 - [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **hqnicolas/OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
 - [Link](https://github.com/hqnicolas/devika) **hqnicolas/devika** Devika, an advanced AI software engineer that runs Ollama.
