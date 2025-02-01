@@ -50,5 +50,5 @@
 - [Link](https://github.com/hqnicolas/eclipse-mosquitto) **hqnicolas/eclipse-mosquitto**  Run MQTT Server on CasaOs Docker with aarch64.
 - [Link](https://github.com/hqnicolas/frigate-rockchip) **hqnicolas/frigate-rockchip**  Run Ai powered Network Video Recorder with aarch64.
 
-# bookstores 📚
-- [Link](https://github.com/hqnicolas/library) **hqnicolas/library**  Bookstore for the weekend, if you have time.
+# Github Bookstores 📚
+- [Link](https://github.com/hqnicolas/library) **hqnicolas/library**  Removing Copyright Content from a Bookstore found in github.
