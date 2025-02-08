@@ -55,3 +55,6 @@
 
 # iOT Development 📟
 - [Link](https://github.com/hqnicolas/CH341A-I2C) **hqnicolas/ch341a-i2c**  library and header to communicate with I2C devices.
+- [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/TTL/PL2303) **hqnicolas/TTL/PL2303**  Manual to communicate with TTL in Linux.
+- [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/Jtag/OpenOCD/STLinkV2) **hqnicolas/Jtag/STLinkV2**  Manual to communicate with Jtag in Linux.
+
