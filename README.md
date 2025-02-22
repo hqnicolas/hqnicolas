@@ -59,7 +59,7 @@
 - [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/Jtag/OpenOCD/STLinkV2) **hqnicolas/Jtag/STLinkV2**  Manual to communicate with Jtag in Linux.
 - [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Hardware-Design) **hqnicolas/iMX Plus Hardware**  Manual design a NXP development board.
 - [Link](https://github.com/hqnicolas/RK3568-hardware-design) **hqnicolas/Rk3568 Hardware**  Manual design a Rockchip development board.
-- [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Software-Design) **hqnicolas/iMX Plus Software**  Manual design a NXP Linux carrier.
 - [Link](https://github.com/hqnicolas/RK3576-hardware-design) **hqnicolas/Rk3576 Hardware**  Manual design a Rockchip development board.
+- [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Software-Design) **hqnicolas/iMX Plus Software**  Manual design a NXP Linux carrier.
 
 
