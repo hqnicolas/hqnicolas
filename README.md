@@ -25,7 +25,7 @@
 - [Link](https://github.com/hqnicolas/8-bit-MCU) **hqnicolas/8-bit-MCU** List of my projects using 8 Bits Micro Controllers.
 - [Link](https://github.com/hqnicolas/Estrutura-de-dados)  **hqnicolas/Estrutura-de-dados** Exercises from the data structure discipline.
 - [Link](https://github.com/hqnicolas/Estatistica-Aplicada) **hqnicolas/Estatistica-Aplicada**  Exercises from Applied Statistics discipline.
-- [Link](https://github.com/hqnicolas/Data_Science) **hqnicolas/Data_Science**  Exercises from Data Science discipline.
+- [Link](https://github.com/hqnicolas/Data_Science) **hqnicolas/Data-Science**  Exercises from Data Science discipline.
 - [Link](https://github.com/hqnicolas/PyExercices) **hqnicolas/PyExercices** Exercises from the Python discipline.
 - [Link](https://github.com/hqnicolas/Delphi7Exercices) **hqnicolas/Delphi7Exercices** Exercises from the Delphi discipline.
 - [Link](https://github.com/hqnicolas/DataBase-Level1-SQL) **hqnicolas/DataBase-Level1-SQL** Exercises from the Database discipline.
