@@ -54,6 +54,7 @@
 
 # Github Bookstores 📚
 - [Link](https://github.com/hqnicolas/library) **hqnicolas/library**  Removing Copyright Content from a Bookstore found in github.
+- [Link](https://github.com/hqnicolas/awesome) **hqnicolas/awesome**  Awesome lists about all kinds of interesting topics.
 
 # iOT Development 📟
 - [Link](https://github.com/hqnicolas/CH341A-I2C) **hqnicolas/ch341a-i2c**  library and header to communicate with I2C devices.
