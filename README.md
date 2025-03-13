@@ -33,13 +33,14 @@
 - [Link](https://github.com/hqnicolas/C-Exercices) **hqnicolas/C++Exercices** Exercises from C++ discipline.
 - [Link](https://github.com/hqnicolas/Control_Systems) **hqnicolas/Control-Systems** Manipulation of physical systems with controllers.
 - [Link](https://github.com/hqnicolas/backend-Level1-Java) **hqnicolas/backend-Level1-Java**  Exercises from the Backend discipline.
+- [Link](https://github.com/hqnicolas/Inteligencia_Artificial) **hqnicolas/Inteligência_Artificial** Exercises from the iA discipline.
 
 # Complete App's exercises 🖨️​
 - [Link](https://github.com/hqnicolas/PyGameSnake) **hqnicolas/PyGameSnake** snake game in python
 - [Link](https://github.com/hqnicolas/n2backend) **hqnicolas/n2backend** TinyUrl Shortener: URL Management Rest API
 - [Link](https://github.com/hqnicolas/n3backend) **hqnicolas/n3backend** Community Engagement: donation management
 - [Link](https://github.com/hqnicolas/bd2) **hqnicolas/bd2** Ensurance Controller: Smartphone Insurance platform
-- [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations 
+- [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations
 
 # MacOS x86 distro 💻​  
 - [Link](https://github.com/hqnicolas/T430-Thinkpad-OpenCore) **hqnicolas/T430-Thinkpad-OpenCore** My OpenCore Laptop Release Page.
