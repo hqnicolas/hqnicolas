@@ -11,15 +11,65 @@
 - [Link](https://github.com/hqnicolas/crewai-docker-image) **hqnicolas/crewai-docker-image** CrewAI Agents Docker Image a containerized environment.
 - [Link](https://github.com/hqnicolas/edu-crew) **hqnicolas/edu-crew** CrewAi Project Base for Web Scratch Projects Using Ai
 
+---
+
 # Image Deep Learning 📷
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
 - [Link](https://github.com/hqnicolas/lllyasvielFooocusROCm/tree/main) **hqnicolas/lllyasvielFooocusROCm** Rethinking of Stable Diffusion and Midjourney’s designs.
 - [Link](https://github.com/hqnicolas/bmaltaisKohya_ssROCm/tree/main) **hqnicolas/bmaltaisKohya_ssROCm** training, generation and utility scripts for Stable Diffusion.
 
+---
+
 # CasaOs Docker Templates 🐳
 - [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base JupyterLab Notebook Stack to Docker Compose.
 - [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyter) **hqnicolas/KonmeoCasaOsJupyter** A jupyter Docker Alternative.
 - [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyterLab) **hqnicolas/KonmeoCasaOsJupyter** A jupyterLab Docker Alternative.
+
+---
+
+# Complete App's exercises 🖨️​
+- [Link](https://github.com/hqnicolas/PyGameSnake) **hqnicolas/PyGameSnake** snake game in python
+- [Link](https://github.com/hqnicolas/n2backend) **hqnicolas/n2backend** TinyUrl Shortener: URL Management Rest API
+- [Link](https://github.com/hqnicolas/n3backend) **hqnicolas/n3backend** Community Engagement: donation management
+- [Link](https://github.com/hqnicolas/bd2) **hqnicolas/bd2** Ensurance Controller: Smartphone Insurance platform
+- [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations
+
+---
+
+# MacOS x86 distro 💻​  
+- [Link](https://github.com/hqnicolas/T430-Thinkpad-OpenCore) **hqnicolas/T430-Thinkpad-OpenCore** My OpenCore Laptop Release Page.
+
+---
+
+# Linux aarch64 distro 💡​
+- [Link](https://github.com/hqnicolas/pop_os_arm64/tree/main) **hqnicolas/pop_os_arm64** My Pop_os! Desktop for Ubuntu server aarch64.
+- [Link](https://github.com/hqnicolas/ArmBoardBringUp) **hqnicolas/ArmBoardBringUp** My Method to include a Arm Board into Debian Distro Support.
+- [Link](https://github.com/hqnicolas/RealTimeVendorKernel-61-rkr5) **hqnicolas/RealTimeArmbianKernel** Enable RT-Threads Operations for Armbian. 
+
+---
+
+# Smart Home devices 🏠
+- [Link](https://github.com/hqnicolas/eclipse-mosquitto) **hqnicolas/eclipse-mosquitto**  Run MQTT Server on CasaOs Docker with aarch64.
+- [Link](https://github.com/hqnicolas/frigate-rockchip) **hqnicolas/frigate-rockchip**  Run Ai powered Network Video Recorder with aarch64.
+
+---
+
+# Github Bookstores 📚
+- [Link](https://github.com/hqnicolas/library) **hqnicolas/library**  Removing Copyright Content from a Bookstore found in github.
+- [Link](https://github.com/hqnicolas/awesome) **hqnicolas/awesome**  Awesome lists about all kinds of interesting topics.
+
+---
+
+# iOT Development 📟
+- [Link](https://github.com/hqnicolas/CH341A-I2C) **hqnicolas/ch341a-i2c**  library and header to communicate with I2C devices.
+- [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/TTL/PL2303) **hqnicolas/TTL/PL2303**  Manual to communicate with TTL in Linux.
+- [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/Jtag/OpenOCD/STLinkV2) **hqnicolas/Jtag/STLinkV2**  Manual to communicate with Jtag in Linux.
+- [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Hardware-Design) **hqnicolas/iMX-Plus-Hardware**  Manual design a NXP development board.
+- [Link](https://github.com/hqnicolas/RK3568-hardware-design) **hqnicolas/Rk3568-Hardware**  Manual design a Rockchip development board.
+- [Link](https://github.com/hqnicolas/RK3576-hardware-design) **hqnicolas/Rk3576-Hardware**  Manual design a Rockchip development board.
+- [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Software-Design) **hqnicolas/iMX-Plus-Software**  Manual design a NXP Linux carrier.
+
+---
 
 # Computer engineering Activities 🏋️‍♂️
 - [Link](https://github.com/hqnicolas/8-bit-MCU) **hqnicolas/8-bit-MCU** List of my projects using 8 Bits Micro Controllers.
@@ -36,36 +86,5 @@
 - [Link](https://github.com/hqnicolas/Inteligencia_Artificial) **hqnicolas/Inteligência_Artificial** Exercises from the iA discipline.
 - [Link](https://github.com/hqnicolas/Android-mobile) **hqnicolas/Android-mobile** Exercises from Android mobile
 
-# Complete App's exercises 🖨️​
-- [Link](https://github.com/hqnicolas/PyGameSnake) **hqnicolas/PyGameSnake** snake game in python
-- [Link](https://github.com/hqnicolas/n2backend) **hqnicolas/n2backend** TinyUrl Shortener: URL Management Rest API
-- [Link](https://github.com/hqnicolas/n3backend) **hqnicolas/n3backend** Community Engagement: donation management
-- [Link](https://github.com/hqnicolas/bd2) **hqnicolas/bd2** Ensurance Controller: Smartphone Insurance platform
-- [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations
-
-# MacOS x86 distro 💻​  
-- [Link](https://github.com/hqnicolas/T430-Thinkpad-OpenCore) **hqnicolas/T430-Thinkpad-OpenCore** My OpenCore Laptop Release Page.
-
-# Linux aarch64 distro 💡​
-- [Link](https://github.com/hqnicolas/pop_os_arm64/tree/main) **hqnicolas/pop_os_arm64** My Pop_os! Desktop for Ubuntu server aarch64.
-- [Link](https://github.com/hqnicolas/ArmBoardBringUp) **hqnicolas/ArmBoardBringUp** My Method to include a Arm Board into Debian Distro Support.
-- [Link](https://github.com/hqnicolas/RealTimeVendorKernel-61-rkr5) **hqnicolas/RealTimeArmbianKernel** Enable RT-Threads Operations for Armbian. 
-
-# Smart Home devices 🏠
-- [Link](https://github.com/hqnicolas/eclipse-mosquitto) **hqnicolas/eclipse-mosquitto**  Run MQTT Server on CasaOs Docker with aarch64.
-- [Link](https://github.com/hqnicolas/frigate-rockchip) **hqnicolas/frigate-rockchip**  Run Ai powered Network Video Recorder with aarch64.
-
-# Github Bookstores 📚
-- [Link](https://github.com/hqnicolas/library) **hqnicolas/library**  Removing Copyright Content from a Bookstore found in github.
-- [Link](https://github.com/hqnicolas/awesome) **hqnicolas/awesome**  Awesome lists about all kinds of interesting topics.
-
-# iOT Development 📟
-- [Link](https://github.com/hqnicolas/CH341A-I2C) **hqnicolas/ch341a-i2c**  library and header to communicate with I2C devices.
-- [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/TTL/PL2303) **hqnicolas/TTL/PL2303**  Manual to communicate with TTL in Linux.
-- [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/Jtag/OpenOCD/STLinkV2) **hqnicolas/Jtag/STLinkV2**  Manual to communicate with Jtag in Linux.
-- [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Hardware-Design) **hqnicolas/iMX-Plus-Hardware**  Manual design a NXP development board.
-- [Link](https://github.com/hqnicolas/RK3568-hardware-design) **hqnicolas/Rk3568-Hardware**  Manual design a Rockchip development board.
-- [Link](https://github.com/hqnicolas/RK3576-hardware-design) **hqnicolas/Rk3576-Hardware**  Manual design a Rockchip development board.
-- [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Software-Design) **hqnicolas/iMX-Plus-Software**  Manual design a NXP Linux carrier.
 
 
