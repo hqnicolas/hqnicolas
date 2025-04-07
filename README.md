@@ -1,6 +1,14 @@
 ### Hello! ✋ I'm Nícolas Pereira 🍶
 
 - A list of my repositories Below.
+
+# Image Deep Learning 📷
+- [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
+- [Link](https://github.com/hqnicolas/lllyasvielFooocusROCm/tree/main) **hqnicolas/lllyasvielFooocusROCm** Rethinking of Stable Diffusion and Midjourney’s designs.
+- [Link](https://github.com/hqnicolas/bmaltaisKohya_ssROCm/tree/main) **hqnicolas/bmaltaisKohya_ssROCm** training, generation and utility scripts for Stable Diffusion.
+
+---
+
 # Large Language Models (LLM's) 💬
 - [Link](https://github.com/hqnicolas/meta-ai-api) **hqnicolas/meta-ai-api** OpenAI-compatible API interface for interacting with Meta AI models
 - [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
@@ -13,17 +21,16 @@
 
 ---
 
-# Image Deep Learning 📷
-- [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
-- [Link](https://github.com/hqnicolas/lllyasvielFooocusROCm/tree/main) **hqnicolas/lllyasvielFooocusROCm** Rethinking of Stable Diffusion and Midjourney’s designs.
-- [Link](https://github.com/hqnicolas/bmaltaisKohya_ssROCm/tree/main) **hqnicolas/bmaltaisKohya_ssROCm** training, generation and utility scripts for Stable Diffusion.
-
----
-
 # CasaOs Docker Templates 🐳
 - [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base JupyterLab Notebook Stack to Docker Compose.
 - [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyter) **hqnicolas/KonmeoCasaOsJupyter** A jupyter Docker Alternative.
 - [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyterLab) **hqnicolas/KonmeoCasaOsJupyter** A jupyterLab Docker Alternative.
+
+---
+
+# Smart Home devices 🏠
+- [Link](https://github.com/hqnicolas/eclipse-mosquitto) **hqnicolas/eclipse-mosquitto**  Run MQTT Server on CasaOs Docker with aarch64.
+- [Link](https://github.com/hqnicolas/frigate-rockchip) **hqnicolas/frigate-rockchip**  Run Ai powered Network Video Recorder with aarch64.
 
 ---
 
@@ -45,12 +52,6 @@
 - [Link](https://github.com/hqnicolas/pop_os_arm64/tree/main) **hqnicolas/pop_os_arm64** My Pop_os! Desktop for Ubuntu server aarch64.
 - [Link](https://github.com/hqnicolas/ArmBoardBringUp) **hqnicolas/ArmBoardBringUp** My Method to include a Arm Board into Debian Distro Support.
 - [Link](https://github.com/hqnicolas/RealTimeVendorKernel-61-rkr5) **hqnicolas/RealTimeArmbianKernel** Enable RT-Threads Operations for Armbian. 
-
----
-
-# Smart Home devices 🏠
-- [Link](https://github.com/hqnicolas/eclipse-mosquitto) **hqnicolas/eclipse-mosquitto**  Run MQTT Server on CasaOs Docker with aarch64.
-- [Link](https://github.com/hqnicolas/frigate-rockchip) **hqnicolas/frigate-rockchip**  Run Ai powered Network Video Recorder with aarch64.
 
 ---
 
