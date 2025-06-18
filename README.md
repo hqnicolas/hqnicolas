@@ -31,6 +31,7 @@
 # Smart Home devices 🏠
 - [Link](https://github.com/hqnicolas/eclipse-mosquitto) **hqnicolas/eclipse-mosquitto**  Run MQTT Server on CasaOs Docker with aarch64.
 - [Link](https://github.com/hqnicolas/frigate-rockchip) **hqnicolas/frigate-rockchip**  Run Ai powered Network Video Recorder with aarch64.
+- [Link](https://github.com/hqnicolas/Home_Assistait_blueprints) **hqnicolas/blueprint** Home assistant push notifications for rockchip devices.
 
 ---
 
