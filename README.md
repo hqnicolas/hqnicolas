@@ -43,6 +43,7 @@
 - [Link](https://github.com/hqnicolas/bd2) **hqnicolas/bd2** Ensurance Controller: Smartphone Insurance platform
 - [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations
 - [Link](https://github.com/hqnicolas/JewelryAndroidStudio) **hqnicolas/JewelryAndroidStudio** Sales Force Jewelry
+- [Link](https://github.com/hqnicolas/PlantaComArduinoAi) **hqnicolas/PlantaComArduinoAi** Ai app into Arduino Control
 
 ---
 
