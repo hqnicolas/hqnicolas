@@ -33,7 +33,7 @@
 - [Link](https://github.com/hqnicolas/frigate-rockchip) **hqnicolas/frigate-rockchip**  Run Ai powered Network Video Recorder with aarch64.
 - [Link](https://github.com/hqnicolas/Home_Assistait_blueprints) **hqnicolas/blueprint** Home assistant push notifications for rockchip devices.
 - [Link](https://github.com/hqnicolas/home-assistant-casaos) **hqnicolas/home-assistant** Home assistant template for CasaOs docker compose.
-
+- [Link](https://github.com/hqnicolas/WebDroneControle) **hqnicolas/WebDroneControle** Componente de Sistemas de Controle
 ---
 
 # Complete App's exercises 🖨️​
@@ -44,6 +44,7 @@
 - [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations
 - [Link](https://github.com/hqnicolas/JewelryAndroidStudio) **hqnicolas/JewelryAndroidStudio** Sales Force Jewelry
 - [Link](https://github.com/hqnicolas/PlantaComArduinoAi) **hqnicolas/PlantaComArduinoAi** Ai app into Arduino Control
+- 
 
 ---
 
