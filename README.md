@@ -66,6 +66,11 @@
 
 ---
 
+# Radio devices 📻
+- [Link](https://github.com/hqnicolas/ELRS-TX-E32-433) **hqnicolas/ELRS-TX-433**  ELRS transmitter based on Ebyte E32 module with 1W power.
+
+---
+
 # iOT Development 📟
 - [Link](https://github.com/hqnicolas/CH341A-I2C) **hqnicolas/ch341a-i2c**  library and header to communicate with I2C devices.
 - [Link](https://github.com/hqnicolas/Rockchip-Library/tree/main/TTL/PL2303) **hqnicolas/TTL/PL2303**  Manual to communicate with TTL in Linux.
