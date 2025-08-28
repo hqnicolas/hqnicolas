@@ -98,5 +98,6 @@
 - [Link](https://github.com/hqnicolas/Android-mobile) **hqnicolas/Android-mobile** Exercises from Android mobile
 - [Link](https://github.com/hqnicolas/Front-End) **hqnicolas/Front-End** Front End Development
 - [Link](https://github.com/hqnicolas/Sec-Redes) **hqnicolas/Sec-Redes** Segurança em Redes
+- [Link](https://github.com/hqnicolas/Machine-Learning) **hqnicolas/Machine-Learning** Hello Word Pipeline for Machine Learning
 
 
