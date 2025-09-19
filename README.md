@@ -80,6 +80,8 @@
 - [Link](https://github.com/hqnicolas/RK3576-hardware-design) **hqnicolas/Rk3576-Hardware**  Manual design a Rockchip development board.
 - [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Software-Design) **hqnicolas/iMX-Plus-Software**  Manual design a NXP Linux carrier.
 - [Link](https://github.com/hqnicolas/Rust-docs) **hqnicolas/Rust-Docs**  Manual for Embedded Rust.
+- [Link](https://github.com/hqnicolas/WeActStudio-RP2040CoreBoard) **hqnicolas/WeActStudio-RP2040**  RP2040 Manual for WeActStudio.
+- 
 
 
 ---
