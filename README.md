@@ -79,6 +79,8 @@
 - [Link](https://github.com/hqnicolas/RK3568-hardware-design) **hqnicolas/Rk3568-Hardware**  Manual design a Rockchip development board.
 - [Link](https://github.com/hqnicolas/RK3576-hardware-design) **hqnicolas/Rk3576-Hardware**  Manual design a Rockchip development board.
 - [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Software-Design) **hqnicolas/iMX-Plus-Software**  Manual design a NXP Linux carrier.
+- [Link](https://github.com/hqnicolas/Rust-docs) **hqnicolas/Rust-Docs**  Manual for Embedded Rust.
+
 
 ---
 
