@@ -44,7 +44,6 @@
 - [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations
 - [Link](https://github.com/hqnicolas/JewelryAndroidStudio) **hqnicolas/JewelryAndroidStudio** Sales Force Jewelry
 - [Link](https://github.com/hqnicolas/PlantaComArduinoAi) **hqnicolas/PlantaComArduinoAi** Ai app into Arduino Control
-- 
 
 ---
 
@@ -81,8 +80,7 @@
 - [Link](https://github.com/hqnicolas/i.MX-8M-Plus-Software-Design) **hqnicolas/iMX-Plus-Software**  Manual design a NXP Linux carrier.
 - [Link](https://github.com/hqnicolas/Rust-docs) **hqnicolas/Rust-Docs**  Manual for Embedded Rust.
 - [Link](https://github.com/hqnicolas/WeActStudio-RP2040CoreBoard) **hqnicolas/WeActStudio-RP2040**  RP2040 Manual for WeActStudio.
-- 
-
+- [Link](https://github.com/hqnicolas/VCCGND-YD-RP2040) **hqnicolas/VccGnd-YD2040**  RP2040 Manual for VccGndStudio.
 
 ---
 
