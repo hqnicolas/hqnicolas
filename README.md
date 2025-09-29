@@ -6,7 +6,7 @@
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
 - [Link](https://github.com/hqnicolas/lllyasvielFooocusROCm/tree/main) **hqnicolas/lllyasvielFooocusROCm** Rethinking of Stable Diffusion and Midjourney’s designs.
 - [Link](https://github.com/hqnicolas/bmaltaisKohya_ssROCm/tree/main) **hqnicolas/bmaltaisKohya_ssROCm** training, generation and utility scripts for Stable Diffusion.
-
+- [Link](https://github.com/hqnicolas/ROCm-AI-Installer) **hqnicolas/ROCm-AI-Installer** Mateusz-Dera ROCm-AI-Installer ported to docker Composer.
 ---
 
 # Large Language Models (LLM's) 💬
