@@ -39,7 +39,7 @@
 - [Link](https://github.com/hqnicolas/PyGameSnake) **hqnicolas/PyGameSnake** snake game in python
 - [Link](https://github.com/hqnicolas/n2backend) **hqnicolas/n2backend** TinyUrl Shortener: URL Management Rest API
 - [Link](https://github.com/hqnicolas/n3backend) **hqnicolas/n3backend** Community Engagement: donation management
-- [Link](https://github.com/hqnicolas/n3FrontEnd) **hqnicolas/n3FrontEnd** Community Engagement: Front End App
+- [Link](https://github.com/hqnicolas/AjudaJaFront) **hqnicolas/n3frontend** Community Engagement: Front End App
 - [Link](https://github.com/hqnicolas/bd2) **hqnicolas/bd2** Ensurance Controller: Smartphone Insurance platform
 - [Link](https://github.com/hqnicolas/FinalCPP) **hqnicolas/FinalCPP** console-based C++ various library operations
 - [Link](https://github.com/hqnicolas/JewelryAndroidStudio) **hqnicolas/JewelryAndroidStudio** Sales Force Jewelry
