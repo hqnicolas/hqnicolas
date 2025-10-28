@@ -67,7 +67,7 @@
 ---
 
 # Radio devices 📻
-- [Link](https://github.com/hqnicolas/ELRS-TX-E32-433) **hqnicolas/ELRS-TX-433**  ELRS transmitter based on Ebyte E32 module with 1W power.
+- [Link](https://github.com/hqnicolas/ELRS-TX-E32-DIY) **hqnicolas/ELRS-TX-433**  ELRS transmitter based on Ebyte E32 module with 1W power.
 
 ---
 
