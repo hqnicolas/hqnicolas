@@ -45,6 +45,7 @@
 - [Link](https://github.com/hqnicolas/PlantaComArduinoAi) **hqnicolas/PlantaComArduinoAi** Ai app into Arduino Control
 - [Link](https://github.com/hqnicolas/WebDroneControle) **hqnicolas/WebDroneControle** Componente de Sistemas de Controle
 - [Link](https://github.com/hqnicolas/Modelagem-de-Emprestimos) **hqnicolas/ModelagemEmprestimos** Machine learning applied to financial analysis
+- [Link](https://github.com/hqnicolas/PasswordRacing) **hqnicolas/PasswordRacing** Game for Arduino
 
 ---
 
