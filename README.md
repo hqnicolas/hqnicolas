@@ -104,5 +104,6 @@
 - [Link](https://github.com/hqnicolas/Sec-Redes) **hqnicolas/Sec-Redes** Segurança em Redes
 - [Link](https://github.com/hqnicolas/Machine-Learning) **hqnicolas/Machine-Learning** Hello Word Pipeline for Machine Learning
 - [Link](https://github.com/hqnicolas/Embedded-Operating-Systems) **hqnicolas/Embedded-Systems** Hello Word for Embedded Operating Systems
+- [Link](https://github.com/hqnicolas/Cloud-Computing) **hqnicolas/Cloud-Computing** Hello Word for Cloud Computing
 
 
