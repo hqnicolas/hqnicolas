@@ -86,24 +86,39 @@
 
 ---
 
-# Computer engineering Activities 🏋️‍♂️
-- [Link](https://github.com/hqnicolas/8-bit-MCU) **hqnicolas/8-bit-MCU** List of my projects using 8 Bits Micro Controllers.
-- [Link](https://github.com/hqnicolas/Estrutura-de-dados)  **hqnicolas/Estrutura-de-dados** Exercises from the data structure discipline.
-- [Link](https://github.com/hqnicolas/Estatistica-Aplicada) **hqnicolas/Estatistica-Aplicada**  Exercises from Applied Statistics discipline.
-- [Link](https://github.com/hqnicolas/Data_Science) **hqnicolas/Data-Science**  Exercises from Data Science discipline.
-- [Link](https://github.com/hqnicolas/PyExercices) **hqnicolas/PyExercices** Exercises from the Python discipline.
-- [Link](https://github.com/hqnicolas/Delphi7Exercices) **hqnicolas/Delphi7Exercices** Exercises from the Delphi discipline.
-- [Link](https://github.com/hqnicolas/DataBase-Level1-SQL) **hqnicolas/DataBase-Level1-SQL** Exercises from the Database discipline.
-- [Link](https://github.com/hqnicolas/DataBase-Level2-SQL) **hqnicolas/DataBase-Level2-SQL** Exercises from the Database discipline.
-- [Link](https://github.com/hqnicolas/C-Exercices) **hqnicolas/C++Exercices** Exercises from C++ discipline.
-- [Link](https://github.com/hqnicolas/Control_Systems) **hqnicolas/Control-Systems** Manipulation of physical systems with controllers.
-- [Link](https://github.com/hqnicolas/backend-Level1-Java) **hqnicolas/backend-Level1-Java**  Exercises from the Backend discipline.
-- [Link](https://github.com/hqnicolas/Inteligencia_Artificial) **hqnicolas/Inteligência_Artificial** Exercises from the iA discipline.
-- [Link](https://github.com/hqnicolas/Android-mobile) **hqnicolas/Android-mobile** Exercises from Android mobile
-- [Link](https://github.com/hqnicolas/Front-End) **hqnicolas/Front-End** Front End Development
-- [Link](https://github.com/hqnicolas/Sec-Redes) **hqnicolas/Sec-Redes** Segurança em Redes
-- [Link](https://github.com/hqnicolas/Machine-Learning) **hqnicolas/Machine-Learning** Hello Word Pipeline for Machine Learning
-- [Link](https://github.com/hqnicolas/Embedded-Operating-Systems) **hqnicolas/Embedded-Systems** Hello Word for Embedded Operating Systems
-- [Link](https://github.com/hqnicolas/Cloud-Computing) **hqnicolas/Cloud-Computing** Hello Word for Cloud Computing
+# Computer Engineering Activities 🏋️‍♂️
 
+## Embedded Systems & Hardware 🔌
+- [Link](https://github.com/hqnicolas/8-bit-MCU) **hqnicolas/8-bit-MCU** – List of my projects using 8-bit Microcontrollers.
+- [Link](https://github.com/hqnicolas/Embedded-Operating-Systems) **hqnicolas/Embedded-Systems** – Hello World for Embedded Operating Systems.
+- [Link](https://github.com/hqnicolas/Control_Systems) **hqnicolas/Control-Systems** – Manipulation of physical systems with controllers.
+
+## Data Science & Artificial Intelligence 📊
+- [Link](https://github.com/hqnicolas/Data_Science) **hqnicolas/Data-Science** – Exercises from Data Science discipline.
+- [Link](https://github.com/hqnicolas/Estatistica-Aplicada) **hqnicolas/Estatistica-Aplicada** – Exercises from Applied Statistics discipline.
+- [Link](https://github.com/hqnicolas/Machine-Learning) **hqnicolas/Machine-Learning** – Hello World Pipeline for Machine Learning.
+- [Link](https://github.com/hqnicolas/Inteligencia_Artificial) **hqnicolas/Inteligência_Artificial** – Exercises from Artificial Intelligence discipline.
+
+## Programming Languages 💻
+- [Link](https://github.com/hqnicolas/PyExercices) **hqnicolas/PyExercices** – Exercises from the Python discipline.
+- [Link](https://github.com/hqnicolas/C-Exercices) **hqnicolas/C++Exercices** – Exercises from C++ discipline.
+- [Link](https://github.com/hqnicolas/Delphi7Exercices) **hqnicolas/Delphi7Exercices** – Exercises from the Delphi discipline.
+- [Link](https://github.com/hqnicolas/backend-Level1-Java) **hqnicolas/backend-Level1-Java** – Exercises from the Backend discipline.
+
+## Databases 🗄️
+- [Link](https://github.com/hqnicolas/DataBase-Level1-SQL) **hqnicolas/DataBase-Level1-SQL** – Exercises from the Database discipline.
+- [Link](https://github.com/hqnicolas/DataBase-Level2-SQL) **hqnicolas/DataBase-Level2-SQL** – Exercises from the Database discipline.
+
+## Web & Mobile Development 🌐
+- [Link](https://github.com/hqnicolas/Front-End) **hqnicolas/Front-End** – Front End Development.
+- [Link](https://github.com/hqnicolas/Android-mobile) **hqnicolas/Android-mobile** – Exercises from Android Mobile.
+
+## Networks & Security 🔐
+- [Link](https://github.com/hqnicolas/Sec-Redes) **hqnicolas/Sec-Redes** – Segurança em Redes.
+
+## Cloud Computing ☁️
+- [Link](https://github.com/hqnicolas/Cloud-Computing) **hqnicolas/Cloud-Computing** – Hello World for Cloud Computing.
+
+## Computer Science Fundamentals 🧮
+- [Link](https://github.com/hqnicolas/Estrutura-de-dados) **hqnicolas/Estrutura-de-dados** – Exercises from the Data Structures discipline.
 
