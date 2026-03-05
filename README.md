@@ -92,6 +92,7 @@
 - [Link](https://github.com/hqnicolas/8-bit-MCU) **hqnicolas/8-bit-MCU** – List of my projects using 8-bit Microcontrollers.
 - [Link](https://github.com/hqnicolas/Embedded-Operating-Systems) **hqnicolas/Embedded-Systems** – Hello World for Embedded Operating Systems.
 - [Link](https://github.com/hqnicolas/Control_Systems) **hqnicolas/Control-Systems** – Manipulation of physical systems with controllers.
+- [Link](https://github.com/hqnicolas/Internet-of-Things) **hqnicolas/Internet-of-Things** – Hello World for Internet of Things.
 
 ## Data Science & Artificial Intelligence 📊
 - [Link](https://github.com/hqnicolas/Data_Science) **hqnicolas/Data-Science** – Exercises from Data Science discipline.
