@@ -116,6 +116,7 @@
 
 ## Networks & Security 🔐
 - [Link](https://github.com/hqnicolas/Sec-Redes) **hqnicolas/Sec-Redes** – Segurança em Redes.
+- [Link](https://github.com/hqnicolas/CiberSec) **hqnicolas/CiberSec** – Segurança da Informação.
 
 ## Cloud Computing ☁️
 - [Link](https://github.com/hqnicolas/Cloud-Computing) **hqnicolas/Cloud-Computing** – Hello World for Cloud Computing.
