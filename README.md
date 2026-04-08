@@ -35,6 +35,7 @@
 ---
 
 # Complete App's exercises 🖨️​
+- [Link](https://github.com/hqnicolas/BABOT) **hqnicolas/BABOT** 3-DOF Ball-Balancing Robot
 - [Link](https://github.com/hqnicolas/PyGameSnake) **hqnicolas/PyGameSnake** snake game in python
 - [Link](https://github.com/hqnicolas/n2backend) **hqnicolas/n2backend** TinyUrl Shortener: URL Management Rest API
 - [Link](https://github.com/hqnicolas/n3backend) **hqnicolas/n3backend** Community Engagement: donation management
