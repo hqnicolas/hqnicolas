@@ -102,6 +102,7 @@
 - [Link](https://github.com/hqnicolas/Estatistica-Aplicada) **hqnicolas/Estatistica-Aplicada** – Exercises from Applied Statistics discipline.
 - [Link](https://github.com/hqnicolas/Machine-Learning) **hqnicolas/Machine-Learning** – Hello World Pipeline for Machine Learning.
 - [Link](https://github.com/hqnicolas/Inteligencia_Artificial) **hqnicolas/Inteligência_Artificial** – Exercises from Artificial Intelligence discipline.
+- [Link](https://github.com/hqnicolas/Deep-Learning) **hqnicolas/Deep-Learning** – Hello World Pipeline for Deep Learning.
 
 ## Programming Languages 💻
 - [Link](https://github.com/hqnicolas/PyExercices) **hqnicolas/PyExercices** – Exercises from the Python discipline.
