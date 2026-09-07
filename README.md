@@ -21,6 +21,11 @@
 
 ---
 
+# Speach to text to Speech (TTS/STT) 💬🗣️
+- [Link](https://github.com/hqnicolas/Whisper-for-rk3566-CasaOS) **hqnicolas/Whisperrk3566CasaOS** Speach to text (STT) locally with rk3566 in a container.
+- [Link](https://github.com/hqnicolas/Paroli-for-RK3566-CasaOS) **hqnicolas/ParoliRK3566CasaOS** Paroli RKNN TTS server for RK3566 and CasaOS.
+
+---
 # CasaOs Docker Templates 🐳
 - [Link](https://github.com/hqnicolas/CasaOsJupyterLabStacks) **hqnicolas/CasaOsJupyterLabStacks** Base JupyterLab Notebook Stack to Docker Compose.
 - [Link](https://github.com/hqnicolas/KonmeoCasaOsJupyter) **hqnicolas/KonmeoCasaOsJupyter** A jupyter Docker Alternative.
