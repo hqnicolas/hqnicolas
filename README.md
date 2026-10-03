@@ -3,6 +3,7 @@
 - A list of my repositories Below.
 
 # Image Deep Learning 📷
+- [Link](https://github.com/hqnicolas/DragonFruitLeafTrainingRocm) **hqnicolas/DragonFruitLeafRocm** Pitaya cladode classifier data training
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
 - [Link](https://github.com/hqnicolas/lllyasvielFooocusROCm/tree/main) **hqnicolas/lllyasvielFooocusROCm** Rethinking of Stable Diffusion and Midjourney’s designs.
 - [Link](https://github.com/hqnicolas/bmaltaisKohya_ssROCm/tree/main) **hqnicolas/bmaltaisKohya_ssROCm** training, generation and utility scripts for Stable Diffusion.
