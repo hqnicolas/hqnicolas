@@ -3,7 +3,7 @@
 - A list of my repositories Below.
 
 # Image Deep Learning 📷
-- [Link](https://github.com/hqnicolas/DragonFruitLeafTrainingRocm) **hqnicolas/DragonFruitLeafRocm** Pitaya cladode classifier data training
+- [Link](https://github.com/hqnicolas/DragonFruitLeafTrainingRocm) **hqnicolas/DragonFruitLeafROCm** Pitaya cladode classifier data training
 - [Link](https://github.com/hqnicolas/StableDiffusionROCm) **hqnicolas/StableDiffusionROCm** text-to-image transformation with Docker-compose
 - [Link](https://github.com/hqnicolas/lllyasvielFooocusROCm/tree/main) **hqnicolas/lllyasvielFooocusROCm** Rethinking of Stable Diffusion and Midjourney’s designs.
 - [Link](https://github.com/hqnicolas/bmaltaisKohya_ssROCm/tree/main) **hqnicolas/bmaltaisKohya_ssROCm** training, generation and utility scripts for Stable Diffusion.
@@ -12,13 +12,14 @@
 ---
 
 # Large Language Models (LLM's) 💬
-- [Link](https://github.com/hqnicolas/meta-ai-api) **hqnicolas/meta-ai-api** OpenAI-compatible API interface for interacting with Meta AI models
-- [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
-- [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **hqnicolas/OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
+- [Link](https://github.com/hqnicolas/pitaya) **hqnicolas/pitaya** AI chatbot for Dragon Fruit Production management with knowledge base.
 - [Link](https://github.com/hqnicolas/devika) **hqnicolas/devika** Devika, an advanced AI software engineer that runs Ollama.
 - [Link](https://github.com/hqnicolas/Ollama-Pilot-CasaOs/tree/main) **hqnicolas/Ollama-Pilot-CasaOs** GPT-pilot Ported to Ollama docker Compose.
 - [Link](https://github.com/hqnicolas/OpenWebUiPromptTemplates) **hqnicolas/OpenWebUiPromptTemplates** Prompt Engineer for Open Web Ui Ollama models.
 - [Link](https://github.com/hqnicolas/edu-crew) **hqnicolas/edu-crew** CrewAi Project Base for Web Scratch Projects Using Ai
+- [Link](https://github.com/hqnicolas/meta-ai-api) **hqnicolas/meta-ai-api** OpenAI-compatible API interface for interacting with Meta AI models
+- [Link](https://github.com/hqnicolas/WindowsAutoGenStudio) **hqnicolas/WindowsAutoGenStudio** Make You Run AutoGen Studio on Windows.
+- [Link](https://github.com/hqnicolas/OllamaDockerCasaOs) **hqnicolas/OllamaDockerCasaOs** Run Ollama Server on CasaOs Docker with Radeon ROCm.
 
 ---
 
